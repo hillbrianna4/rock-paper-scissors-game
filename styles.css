@@ -1,0 +1,31 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color: bisque;
+}
+
+header {
+    background:#fff;
+
+}
+header > h1 {
+    color:#000;
+    text-align: center;
+    font-family: Asap, sans-serif;
+}
+
+.score-board{
+    border: 3px solid white;
+    border-radius: 4px;
+    text-align: center;
+    width: 200px;
+    margin: 20px auto;
+    color: white;
+    font-size: 46px;
+    padding: 15px 0px;
+    font-family: Asap, sans-serif;
+}
